@@ -101,6 +101,7 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void btnDecimal_Click(object sender, EventArgs e)
         {
+            //si el resultado es decimal da error ya que el numero ya esta en decimal seria redundante volver a convertirlo
             this.lblResultado.Text = Numero.BinarioDecimal(resultado);
         }
     }
