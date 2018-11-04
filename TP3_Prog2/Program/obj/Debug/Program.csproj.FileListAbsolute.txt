@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\bin\Debug\Program.exe.config
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\bin\Debug\Program.exe
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\bin\Debug\Program.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\bin\Debug\EntidadesAbstractas.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\bin\Debug\EntidadesInstanciables.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\bin\Debug\Excepciones.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\bin\Debug\Excepciones.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\obj\Debug\Program.exe
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\obj\Debug\Program.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\bin\Debug\Archivos.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Program\bin\Debug\Archivos.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\bin\Debug\Program.exe.config
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\bin\Debug\Program.exe
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\bin\Debug\Program.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\bin\Debug\Archivos.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\bin\Debug\EntidadesAbstractas.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\bin\Debug\EntidadesInstanciables.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\bin\Debug\Excepciones.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\bin\Debug\Archivos.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\bin\Debug\Excepciones.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\obj\Debug\Program.exe
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Program\obj\Debug\Program.pdb

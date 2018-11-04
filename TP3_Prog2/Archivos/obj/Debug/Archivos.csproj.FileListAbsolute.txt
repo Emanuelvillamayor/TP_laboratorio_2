@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Archivos\bin\Debug\Archivos.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Archivos\bin\Debug\Archivos.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Archivos\bin\Debug\Excepciones.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Archivos\obj\Debug\Archivos.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3 Modelo-2\EntidadesAbstractas\Archivos\obj\Debug\Archivos.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP3\TP3\Archivos\obj\Debug\Archivos.pdb
