@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\MainCorreo1.exe.config
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\MainCorreo1.exe
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\MainCorreo1.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\Entidades.dll.config
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo1.FrmPpal.resources
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo1.Properties.Resources.resources
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo1.exe
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo1.pdb
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\MainCorreo1.exe.config
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\MainCorreo1.exe
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\MainCorreo1.pdb
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\bin\Debug\Entidades.dll.config
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo1.FrmPpal.resources
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo1.Properties.Resources.resources
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo1.exe
+C:\Users\User\Desktop\TP_laboratorio_2\TP4_Prog2\Villamayor.Emanuel.2A.TP4\MainCorreo1\obj\Debug\MainCorreo1.pdb

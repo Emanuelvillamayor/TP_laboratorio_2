@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\Test\bin\Debug\Test.exe
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\Test\bin\Debug\Test.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\Test\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\Test\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\Test\obj\Debug\Test.exe
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\Test\obj\Debug\Test.pdb
+C:\Users\User\Desktop\Manu\Laboratorio-2\Programacion 2\TPs\TP4 Modelo\Villamayor.Emanuel.2A.TP4\Test\bin\Debug\Entidades.dll.config
