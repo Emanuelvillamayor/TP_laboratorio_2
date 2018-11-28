@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,10 +8,15 @@ namespace Entidades
 {
    public class Numero
     {
-        #region ATRIBUTOS
+    #region ATRIBUTOS
 
         private double numero;
-        public string SetNumero
+
+    #endregion
+
+    #region PROPIEDADES
+
+    public string SetNumero
         {
             set
             {
@@ -19,22 +24,34 @@ namespace Entidades
             }
         }
 
-        #endregion
+    #endregion
 
-        #region METODOS
+    #region CONSTRUCTORES
+    public Numero() : this(0)
+    {
 
+    }
+    public Numero(double nume)
+    {
+      SetNumero = nume.ToString();
+    }
+    public Numero(string strNumero)
+    {
+      SetNumero = strNumero;
+    }
+    #endregion
 
+    #region METODOS
 
-
-        /// <summary>
-        /// Convierte un numero binario a Decimal
-        /// </summary>
-        /// <param name="binario"></param>
-        /// <returns>El numero convertido a binario , caso contrario "valor invalido"</returns>
-        public static string BinarioDecimal(string binario)
+    /// <summary>
+    /// Convierte un numero binario a Decimal
+    /// </summary>
+    /// <param name="binario"></param>
+    /// <returns>El numero convertido a binario , caso contrario "valor invalido"</returns>
+    public static string BinarioDecimal(string binario)
         {
             string retorno = "Valor invalido";
-            if (binario != null)
+            if (binario != null && Convert.ToDouble(binario)>0)
             {
                 int[] cadena = new int[binario.Length];
                 double num = 0;
@@ -68,50 +85,50 @@ namespace Entidades
 
 
 
-        /// <summary>
-        /// Convierte un numero decimal a binario
-        /// </summary>
-        /// <param name="numero"></param>
-        /// <returns>El numero convertido a decimal , caso contrario "valor invalido"</returns>
-        public static string DecimalBinario(double numero)
+    /// <summary>
+    /// Convierte un numero decimal a binario
+    /// </summary>
+    /// <param name="numero"></param>
+    /// <returns>El numero convertido a decimal , caso contrario "valor invalido"</returns>
+    public static string DecimalBinario(double numero)
+    {
+      string retorno = "Valor invalido";
+      string comprobar = numero.ToString();
+      int[] cadena = new int[comprobar.Length];
+      int entero;
+      int flag = 1;
+      int i;
+
+        for (i = 0; i < comprobar.Length; i++)
         {
-            string retorno = "Valor invalido";
-            string comprobar = numero.ToString();
-            int[] cadena = new int[comprobar.Length];
-            int entero;
-            int flag = 1;
-            int i;
+          cadena[i] = (int)char.GetNumericValue(comprobar[i]);
+          if (cadena[i] < 0 || cadena[i] > 9)
+          {
+            flag = 0;
+            break;
+          }
 
-            for (i = 0; i < comprobar.Length; i++)
-            {
-                cadena[i] = (int)char.GetNumericValue(comprobar[i]);
-                if (cadena[i] < 0 || cadena[i] > 9)
-                {
-                    flag = 0;
-                    break;
-                }
-
-            }
-            if (flag == 1)
-            {
-                comprobar = "";
-                entero = (int)numero;
-                while (entero > 0)
-                {
-                    comprobar = (entero % 2).ToString() + comprobar;
-                    entero = entero / 2;
-                }
-                if (numero == 0)
-                {
-                    comprobar = "0";
-                }
-                retorno = comprobar;
-
-            }
-            return retorno;
+        }
+      if (flag == 1)
+      {
+        comprobar = "";
+        entero = (int)numero;
+        while (entero > 0)
+        {
+          comprobar = (entero % 2).ToString() + comprobar;
+          entero = entero / 2;
         }
 
+        if (numero == 0)
+        {
+          comprobar = "0";
+        }
+        retorno = comprobar;
+      }
+        return retorno;
+      }
 
+    
         /// <summary>
         /// Convierte un numero decimal a binario
         /// </summary>
@@ -198,24 +215,12 @@ namespace Entidades
             {
                 retorno = auxout;
             }
+
             return retorno;
         }
         #endregion
-
-        #region CONSTRUCTORES
-        public Numero() : this(0)
-        {
-
-        }
-        public Numero(double nume)
-        {
-            SetNumero = nume.ToString();
-        }
-        public Numero(string strNumero)
-        {
-            SetNumero = strNumero;
-        }
-        #endregion
+ 
+     
 
 
     }

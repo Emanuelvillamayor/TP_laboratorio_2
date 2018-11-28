@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,15 +11,15 @@ using Entidades;
 
 namespace MiCalculadora
 {
-    public partial class LaCalculadora : Form
+    public partial class FormCalculadora : Form
     {
-        Numero n1=new Numero();
-        Numero n2=new Numero();
+    Numero n1;
+    Numero n2;
        
         string operador;
         string resultado;
 
-        public LaCalculadora()
+        public FormCalculadora()
         {
             InitializeComponent();
             this.cbxOperar.SelectedIndex = 0;

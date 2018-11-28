@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -55,8 +55,12 @@ namespace Entidades
                 case "*":
                     retorno = n1 * n2;
                     break;
-                case "/":
+                case "/":          
                     retorno = n1 / n2;
+               if(double.IsInfinity(retorno))
+                 {
+                   retorno = double.MinValue;
+                 }
                     break;
                 default:
                     retorno = n1 + n2;
