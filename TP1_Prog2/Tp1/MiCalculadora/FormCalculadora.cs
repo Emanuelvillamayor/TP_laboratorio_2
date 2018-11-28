@@ -36,9 +36,9 @@ namespace MiCalculadora
         /// <param name="n2"></param>
         /// <param name="operador"></param>
         /// <returns>El resultado de esa operacion</returns>
-        private static double Operar(Numero n1, Numero n2, string operador)
+        private static double Operar(string n1, string n2, string operador)
         {
-            return Calculadora.Operar(n1, n2, operador);
+            return Calculadora.Operar(new Numero(n1),new Numero(n2), operador);
         }
 
         /// <summary>
@@ -61,10 +61,9 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void btnOperar_Click(object sender, EventArgs e)
         {
-            n1 = new Numero(this.txtNumero1.Text);
-            n2 = new Numero(this.txtNumero2.Text);
+           
             operador = this.cbxOperar.Text;
-            resultado = Operar(n1, n2, operador).ToString();
+            resultado = Operar(txtNumero1.Text,txtNumero2.Text, operador).ToString();
             this.lblResultado.Text = resultado;
         }
 
@@ -90,7 +89,7 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void btnBinario_Click(object sender, EventArgs e)
         {
-            this.lblResultado.Text =Numero.DecimalBinario(resultado);
+            this.lblResultado.Text =Numero.DecimalBinario(lblResultado.Text);
         }
 
 
@@ -102,7 +101,7 @@ namespace MiCalculadora
         private void btnDecimal_Click(object sender, EventArgs e)
         {
             //si el resultado es decimal da error ya que el numero ya esta en decimal seria redundante volver a convertirlo
-            this.lblResultado.Text = Numero.BinarioDecimal(resultado);
+            this.lblResultado.Text = Numero.BinarioDecimal(lblResultado.Text);
         }
     }
 }

@@ -51,16 +51,18 @@ namespace Entidades
     public static string BinarioDecimal(string binario)
         {
             string retorno = "Valor invalido";
-            if (binario != null && Convert.ToDouble(binario)>0)
+            if (double.TryParse(binario, out double ndecimal))
             {
-                int[] cadena = new int[binario.Length];
+                double final = Convert.ToDouble(binario);
+                string comprobar = (Math.Truncate(final).ToString());
+                int[] cadena = new int[comprobar.Length];
                 double num = 0;
                 int i = 0;
                 int flag = 1;
 
-                for (i = 0; i < binario.Length; i++)
+                for (i = 0; i < comprobar.Length; i++)
                 {
-                    cadena[i] = (int)char.GetNumericValue(binario[i]);
+                    cadena[i] = (int)char.GetNumericValue(comprobar[i]);
                     if (cadena[i] != 1 && cadena[i] != 0)
                     {
                         flag = 0;
@@ -69,11 +71,11 @@ namespace Entidades
 
                 }
 
-                if (flag == 1 && binario != "" && binario != null)
+                if (flag == 1 && comprobar != "" && comprobar != null)
                 {
-                    for (i = 1; i <= binario.Length; i++)
+                    for (i = 1; i <= comprobar.Length; i++)
                     {
-                        num += int.Parse(binario[i - 1].ToString()) * (int)Math.Pow(2, binario.Length - i);
+                        num += int.Parse(comprobar[i - 1].ToString()) * (int)Math.Pow(2, comprobar.Length - i);
                     }
                     retorno = num.ToString();
                 }
@@ -90,41 +92,46 @@ namespace Entidades
     /// </summary>
     /// <param name="numero"></param>
     /// <returns>El numero convertido a decimal , caso contrario "valor invalido"</returns>
-    public static string DecimalBinario(double numero)
+    public static string DecimalBinario(string numero)
     {
       string retorno = "Valor invalido";
-      string comprobar = numero.ToString();
-      int[] cadena = new int[comprobar.Length];
-      int entero;
-      int flag = 1;
-      int i;
 
-        for (i = 0; i < comprobar.Length; i++)
-        {
-          cadena[i] = (int)char.GetNumericValue(comprobar[i]);
-          if (cadena[i] < 0 || cadena[i] > 9)
-          {
-            flag = 0;
-            break;
-          }
+            if (double.TryParse(numero.ToString(), out double nDecimal) &&Convert.ToDouble(numero) >0)
+            {
+                double final = Convert.ToDouble(numero);
+                string comprobar = (Math.Truncate(final).ToString());
+                int[] cadena = new int[comprobar.Length];
+                int entero;
+                int flag = 1;
+                int i;
 
-        }
-      if (flag == 1)
-      {
-        comprobar = "";
-        entero = (int)numero;
-        while (entero > 0)
-        {
-          comprobar = (entero % 2).ToString() + comprobar;
-          entero = entero / 2;
-        }
+                for (i = 0; i < comprobar.Length; i++)
+                {
+                    cadena[i] = (int)char.GetNumericValue(comprobar[i]);
+                    if (cadena[i] < 0 || cadena[i] > 9)
+                    {
+                        flag = 0;
+                        break;
+                    }
 
-        if (numero == 0)
-        {
-          comprobar = "0";
-        }
-        retorno = comprobar;
-      }
+                }
+                if (flag == 1)
+                {
+                    comprobar = "";
+                    entero = (int)final;
+                    while (entero > 0)
+                    {
+                        comprobar = (entero % 2).ToString() + comprobar;
+                        entero = entero / 2;
+                    }
+
+                    if (final == 0)
+                    {
+                        comprobar = "0";
+                    }
+                    retorno = comprobar;
+                }
+            }
         return retorno;
       }
 
@@ -134,13 +141,9 @@ namespace Entidades
         /// </summary>
         /// <param name="numero"></param>
         /// <returns>El numero convertido a decimal , caso contrario "valor invalido"</returns>
-        public static string DecimalBinario(string numero)
-        {
-            double numeroAux;
-
-            numeroAux = Convert.ToDouble(numero);
-
-            return DecimalBinario(numeroAux);
+        public static string DecimalBinario(double numero)
+        {                   
+            return DecimalBinario(numero.ToString());
         }
 
 
