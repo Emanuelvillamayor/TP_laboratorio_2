@@ -13,8 +13,8 @@ namespace MiCalculadora
 {
     public partial class FormCalculadora : Form
     {
-    Numero n1;
-    Numero n2;
+       Numero n1;
+       Numero n2;
        
         string operador;
         string resultado;
